@@ -1,5 +1,8 @@
 # Frankl–Füredi, *An exact result for 3-graphs* — a Lean 4 formalization
 
+![build](https://github.com/GiulianoBasso/FranklFuredi-lean/actions/workflows/build.yml/badge.svg)
+
+
 P. Frankl, Z. Füredi, *An exact result for 3-graphs*, Discrete Mathematics **50** (1984) 323–328.
 
 All three theorems of the paper are formalized with complete proofs, together with its smaller
